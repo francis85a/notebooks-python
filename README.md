@@ -6,3 +6,5 @@ Notebooks fundamentos programacion Python
 2. Scopes ["notebooks buenos nombres de variables"](./Scopes.ipynb)
 
 3. Argumentos ["notebooks Argumentos"](./argumentos.ipynb)
+
+4. Objetos mutables e inmutables ["notebooks objetos mutables e inmutables](./apuntes%20objetos%20mutables%20e%20inmutables.ipynb)
