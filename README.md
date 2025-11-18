@@ -12,3 +12,5 @@ Notebooks fundamentos programacion Python
 5. Listas y fundamentos ["notebooks listas y fundamentos"](./fundamentals.ipynb)
 
 6. Listas avanzadas ["notebooks listas avanzadas"](./Notes_for_professionals.ipynb)
+
+7. Diccionarios ["notebooks diccionarios"](Notebook_Diccionarios.ipynb)
