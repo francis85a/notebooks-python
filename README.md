@@ -10,3 +10,5 @@ Notebooks fundamentos programacion Python
 4. Objetos mutables e inmutables ["notebooks objetos mutables e inmutables](./apuntes%20objetos%20mutables%20e%20inmutables.ipynb)
 
 5. Listas y fundamentos ["notebooks listas y fundamentos"](./fundamentals.ipynb)
+
+6. Listas avanzadas ["notebooks listas avanzadas"](./Notes_for_professionals.ipynb)
