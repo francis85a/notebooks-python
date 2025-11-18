@@ -13,4 +13,8 @@ Notebooks fundamentos programacion Python
 
 6. Listas avanzadas ["notebooks listas avanzadas"](./Notes_for_professionals.ipynb)
 
-7. Diccionarios ["notebooks diccionarios"](Notebook_Diccionarios.ipynb)
+7. Diccionarios ["notebooks diccionarios"](./Notebook_Diccionarios.ipynb)
+
+8. Diccionarios Profesora DAW ["notebooks diccionarios DAW"](./Notebook_profesoraDAW_diccionarios.ipynb)
+
+9. Comandos instalar entorno virtual ["notebooks con comandos para instalar el entorno virtual"](./comandos_entorno_virtual.ipynb)
