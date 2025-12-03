@@ -18,3 +18,9 @@ Notebooks fundamentos programacion Python
 8. Diccionarios Profesora DAW ["notebooks diccionarios DAW"](./notebooks/Notebook_profesoraDAW_diccionarios.ipynb)
 
 9. Comandos instalar entorno virtual ["notebooks con comandos para instalar el entorno virtual"](./notebooks/comandos_entorno_virtual.ipynb)
+
+10. Conjuntos ["Conjuntos"](./notebooks/conjuntos.ipynb)
+
+11. Compresion de Listas ["Compresion Listas"](./notebooks/Compresion_listas.ipynb)
+
+12. Programacion funcional ["Programacion funcional"](./notebooks/programacion_funcional.ipynb)
